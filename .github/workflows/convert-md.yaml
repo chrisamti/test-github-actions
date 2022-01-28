@@ -16,12 +16,18 @@ jobs:
         run: |
           ls -l
           df -h
-            
+    
+      - name: "Read README"
+        id: readme
+        uses: andstor/file-reader-action@v1
+        with:
+          path: "README.md"
+    
       - name: convert README
         id: convert
         uses: lifepal/markdown-to-html@v1.1
         with: 
-          text: $(cat README.md)
+          text: ${{ steps.readme.outputs.contents }}
       
       - name: show html
         run: echo "${{ steps.convert.outputs.html }}"
