@@ -16,19 +16,11 @@ jobs:
         run: |
           ls -l
           df -h
-          
-      - name: cat README.md into env var
-        run: |
-          RM=$(cat README.md)
-          echo "READMECONTENT=$RM" >> $GITHUB_ENV
             
-      - name: show env
-        run: echo ${{ env.READMECONTENT }}
-      
       - name: convert README
         uses: lifepal/markdown-to-html@v1.1
         with: 
-          text: ${{ env.READMECONTENT }}
+          text: $(cat README.md)
           
         
       
