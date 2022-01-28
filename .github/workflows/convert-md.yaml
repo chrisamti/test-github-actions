@@ -2,8 +2,13 @@ name: convert md
 on:
   push:
     # branches: [ main ]
+    paths-ignore: 
+      - ignore_this_path/**
+    
   pull_request:
-
+    paths-ignore: 
+      - ignore_this_path/**
+    
 
 jobs:
   convert-md:
