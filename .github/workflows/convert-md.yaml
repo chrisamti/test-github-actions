@@ -18,10 +18,14 @@ jobs:
           df -h
             
       - name: convert README
+        id: convert
         uses: lifepal/markdown-to-html@v1.1
         with: 
           text: $(cat README.md)
-          
+      
+      - name: show html
+        run: echo "${{ steps.convert.outputs.html }}"
+        
         
       
 
