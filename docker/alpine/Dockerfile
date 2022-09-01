@@ -13,4 +13,5 @@ RUN set -eux; \
 
 WORKDIR /build/test
 COPY . .
-RUN go test -v .
+RUN go test -mod vendor -v .
+
