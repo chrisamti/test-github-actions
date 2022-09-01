@@ -36,5 +36,5 @@ jobs:
 
       - name: Run test
         run: |
-          docker run  --rm --network="host" -it -v /var/run/docker.sock:/var/run/docker.sock  christest:alpine-arm64 bash -c "go test -mod vendor -v ."
+          docker run  --rm --network="host" -it -v /var/run/docker.sock:/var/run/docker.sock  test-github-action:latest bash -c "go test -mod vendor -v ."
       
