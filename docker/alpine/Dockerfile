@@ -12,4 +12,4 @@ RUN set -eux; \
 	git
 
 # show /var/run \
-RUN ls -l /var/run/
+RUN find /var/run
