@@ -12,7 +12,7 @@ on:
 
 jobs:
   convert-md:
-    runs-on: [ "self-hosted", "Linux", "X86", "chris" ]
+    runs-on: [ "self-hosted", "Linux", "X64", "chris" ]
 
     steps:
       - name: Checkout code
