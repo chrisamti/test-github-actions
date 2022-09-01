@@ -32,9 +32,10 @@ jobs:
           platforms: linux/arm64
           push: false
           load: false
-          tags: test-github-action:latest
+          tags: test-github-action:test
+          outputs: type=docker
 
       - name: Run test
-        run: docker run  --rm --network="host" -v /var/run/docker.sock:/var/run/docker.sock  test-github-action:latest bash -c "go test -mod vendor -v ."
+        run: docker run  --rm --network="host" -v /var/run/docker.sock:/var/run/docker.sock  test-github-action:test bash -c "go test -mod vendor -v ."
         shell: bash
       
