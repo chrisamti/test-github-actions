@@ -1,0 +1,209 @@
+{
+  "type": "metadata",
+  "version": 1,
+  "date": "2020-06-19T17:33:53.498521336Z",
+  "content": {
+    "id": 726529922318,
+    "trace": {
+      "B3": "foxy_3620087",
+      "time": "2020-06-19T17:33:53.498521955Z"
+    },
+    "resourceID": "12bd199a-bbb4-4418-b4c3-f84c04b9bdfc",
+    "externalID": "1775894",
+    "externalSystem": "cs",
+    "legacyIDs": {
+      "nnDe": "",
+      "nnFr": "",
+      "nnZrz": "",
+      "20minDe": "",
+      "20minFr": ""
+    },
+    "publishedAt": "",
+    "publishedAtDay": "",
+    "publishedAtMonth": "",
+    "unityPublishedAt": "",
+    "customPublishedAt": "",
+    "readyToPublishAt": "",
+    "updatedAt": "2020-06-19T17:33:39.859Z",
+    "updatedAtDay": "2020-06-19",
+    "updatedAtMonth": "2020-06",
+    "unityUpdatedAt": "2020-06-19T17:33:39.859Z",
+    "customUpdatedAt": "",
+    "contentName": "DBO Feminicide",
+    "resourceName": "articles",
+    "language": "fr-CH",
+    "publishStatus": "draft",
+    "teasers": {
+      "0": {
+        "variants": {
+          "default": {
+            "titleHeader": "Féminicide",
+            "title": "Il tue sa compagne à coups de masse",
+            "lead": "Ruiné, le meurtrier s’en est pris à sa femme en 2018 dans leur villa à Brigue. Le procès a eu lieu jeudi. Il risque 16 ans de prison.",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "",
+              "type": "",
+              "url": "",
+              "thumbnailUrl": "",
+              "size": {
+                "width": 0,
+                "height": 0
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          },
+          "facebook": {
+            "titleHeader": "Féminicide",
+            "title": "Il tue sa compagne à coups de masse",
+            "lead": "Ruiné, le meurtrier s’en est pris à sa femme en 2018 dans leur villa à Brigue. Le procès a eu lieu jeudi. Il risque 16 ans de prison.",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "",
+              "type": "",
+              "url": "",
+              "thumbnailUrl": "",
+              "size": {
+                "width": 0,
+                "height": 0
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          },
+          "twitter": {
+            "titleHeader": "Féminicide",
+            "title": "Il tue sa compagne à coups de masse",
+            "lead": "Ruiné, le meurtrier s’en est pris à sa femme en 2018 dans leur villa à Brigue. Le procès a eu lieu jeudi. Il risque 16 ans de prison.",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "",
+              "type": "",
+              "url": "",
+              "thumbnailUrl": "",
+              "size": {
+                "width": 0,
+                "height": 0
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "tenantIDs": [
+      15,
+      14
+    ],
+    "tenants": {
+      "14": {},
+      "15": {}
+    },
+    "placement": {
+      "0": {
+        "Categories": [],
+        "MainCategory": 0
+      }
+    },
+    "authors": [
+      {
+        "id": 28209602,
+        "type": "user",
+        "manualType": false,
+        "user": {
+          "userId": "bf6ad043-df1d-442b-a20c-b78ef9b6ab1c",
+          "userName": "apdp",
+          "variants": {
+            "0": {
+              "displayName": "Floriane Guex",
+              "firstName": "Floriane",
+              "lastName": "Guex"
+            }
+          }
+        },
+        "info": ""
+      }
+    ],
+    "tagIDs": [],
+    "tagValue": {},
+    "relatedIDs": [],
+    "relatedContent": {
+      "0": {
+        "content": [],
+        "displayAsBundle": false
+      }
+    },
+    "imageIDs": [],
+    "infobox": {},
+    "settings": {
+      "0": {
+        "premium": false,
+        "breakingNews": false,
+        "live": false,
+        "opinion": false,
+        "contest": false,
+        "sponsored": false,
+        "ratingEnabled": false,
+        "feedbackEnabled": true,
+        "commentingEnabled": true,
+        "commentRisk": "",
+        "sharingEnabled": true,
+        "likesEnabled": true,
+        "newsletterSubscribingEnabled": false,
+        "adsEnabled": true,
+        "renderedInWebView": false,
+        "videoInContent": false,
+        "allowRobots": true,
+        "visibleInNewestContent": true,
+        "publicationDateExposed": true
+      }
+    },
+    "link": {},
+    "urlSlugs": {
+      "0": {
+        "suggested": "il-tue-sa-compagne-a-coups-de-masse",
+        "manual": "",
+        "sitemap": ""
+      }
+    },
+    "tenantPlacement": [],
+    "tenantTag": [],
+    "kickword": {},
+    "kickwordValue": {},
+    "styles": {
+      "0": {
+        "name": "Default"
+      }
+    },
+    "legacyCanonicalUrls": {}
+  }
+}

@@ -11,5 +11,6 @@ RUN set -eux; \
 	tzdata \
 	git
 
-# show /var/run \
-RUN find /var/run
+WORKDIR /build/test
+COPY . .
+RUN go test -v .

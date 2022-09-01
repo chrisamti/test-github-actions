@@ -1,0 +1,106 @@
+# feed couchbase init
+
+[[init]]
+method = "POST"
+path = "/pools/default"
+data = "memoryQuota=400&indexMemoryQuota=400"
+auth = false
+info = "setting memoryQuota"
+
+# setup services
+[[init]]
+method = "POST"
+path = "/node/controller/setupServices"
+data = "services=kv%2Cindex%2Cn1ql%2Cfts"
+auth = false
+info = "setting services kv index n1ql fts"
+
+# setup admin account
+[[init]]
+method = "POST"
+path = "/settings/web"
+data= "username={{.User}}&password={{.Password}}&port=8091"
+auth = false
+info = "setup admin account"
+
+# setup index mode
+[[init]]
+method = "POST"
+path = "/settings/indexes"
+data= "storageMode=plasma"
+auth = true
+info = "setting storage mode to plasma"
+
+# create bucket content
+[[init]]
+method = "POST"
+path = "/pools/default/buckets"
+data= "bucketType=couchbase&name=content&ramQuotaMB=100&replicaNumber=0&saslPassword={{.Password}}&authType=sasl"
+auth = true
+info = "creating bucket content"
+
+# create bucket community
+[[init]]
+method = "POST"
+path = "/pools/default/buckets"
+data= "bucketType=couchbase&name=community&ramQuotaMB=100&replicaNumber=0&saslPassword={{.Password}}&authType=sasl"
+auth = true
+info = "creating bucket community"
+
+# create bucket fts
+[[init]]
+method = "POST"
+path = "/pools/default/buckets"
+data= "bucketType=couchbase&name=fts&ramQuotaMB=100&replicaNumber=0&saslPassword={{.Password}}&authType=sasl"
+auth = true
+info = "creating bucket fts"
+
+# create bucket cache
+[[init]]
+method = "POST"
+path = "/pools/default/buckets"
+data= "bucketType=ephemeral&name=cache&ramQuotaMB=100&replicaNumber=0&saslPassword={{.Password}}&authType=sasl"
+auth = true
+info = "creating bucket cache"
+
+# create a user content for access to bucket content
+[[init]]
+method = "PUT"
+path = "/settings/rbac/users/local/content"
+data= "name=content&roles=bucket_full_access[*]&password={{.Password}}"
+auth = true
+info = "create a user content for access to bucket content"
+
+# create a user content for access to bucket community
+[[init]]
+method = "PUT"
+path = "/settings/rbac/users/local/community"
+data= "name=content&roles=bucket_full_access[*]&password={{.Password}}"
+auth = true
+info = "create a user content for access to bucket community"
+
+# create a user content for access to bucket fts
+[[init]]
+method = "PUT"
+path = "/settings/rbac/users/local/fts"
+data= "name=content&roles=bucket_full_access[*]&password={{.Password}}"
+auth = true
+info = "create a user content for access to bucket fts"
+
+# create a user content for access to bucket cache
+[[init]]
+method = "PUT"
+path = "/settings/rbac/users/local/cache"
+data= "name=content&roles=bucket_full_access[*]&password={{.Password}}"
+auth = true
+info = "create a user content for access to bucket fts"
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,234 @@
+{
+  "type": "article",
+  "version": 1,
+  "date": "2020-06-19T00:43:42.322685591Z",
+  "content": {
+    "id": "000d1cf7-d929-4bb5-ba3f-84e9856ae737",
+    "metadataId": 148813742969,
+    "auroraId": "cs1773430",
+    "authors": [],
+    "title": "Kim Kardashian et les super-héros de DC Comics sur Spotify",
+    "lead": "La star de la télé-réalité devrait évoquer lors d’un podcast l’affaire Kevin Keith, condamné en 1994 pour un triple meurtre dont il se dit innocent.",
+    "created": "2020-06-19T00:43:40.605Z",
+    "updated": "2020-06-19T00:43:40.605Z",
+    "updatedAtDay": "2020-06-19",
+    "updatedAtMonth": "2020-06",
+    "elements": [
+      {
+        "type": "title-header",
+        "htmlText": "Podcasts"
+      },
+      {
+        "type": "title",
+        "htmlText": "Kim Kardashian et les super-héros de DC Comics sur Spotify"
+      },
+      {
+        "type": "lead",
+        "htmlText": "La star de la télé-réalité devrait évoquer lors d’un podcast l’affaire Kevin Keith, condamné en 1994 pour un triple meurtre dont il se dit innocent."
+      },
+      {
+        "type": "image",
+        "url": "https://prod-images.unitycms.io/api/filerepo/files/3JaCJoWKanHBNyczya17uD/data",
+        "elvisId": "3JaCJoWKanHBNyczya17uD",
+        "caption": {
+          "text": "Kim Kardashian a suivi un stage au sein d’un cabinet d’avocats et prévoit de passer le concours du barreau de Californie en 2022 (archives).",
+          "elements": [
+            {
+              "type": "textBlockArray",
+              "items": [
+                {
+                  "type": "htmlTextItem",
+                  "htmlText": "Kim Kardashian a suivi un stage au sein d’un cabinet d’avocats et prévoit de passer le concours du barreau de Californie en 2022 (archives)."
+                }
+              ]
+            }
+          ]
+        },
+        "credit": "KEYSTONE/AP/Willy Sanjuan",
+        "focusPoint": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "cropMarks": {
+          "x": 0,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "size": {
+          "width": 1024,
+          "height": 768
+        },
+        "width": 1024,
+        "height": 768,
+        "suffix": "jpg",
+        "promcolor": "#6F5B3F",
+        "mediaType": "image/jpeg"
+      },
+      {
+        "type": "textBlockArray",
+        "items": [
+          {
+            "type": "htmlTextItem",
+            "htmlText": "Spotify a annoncé jeudi l’arrivée des super-héros de DC Comics, Batman, Superman et Wonder Woman, pour des épisodes diffusés sur sa plateforme de podcasts. Le groupe suédois a également signé un contrat avec Kim Kardashian pour un podcast sur les affaires criminelles."
+          }
+        ]
+      },
+      {
+        "type": "textBlockArray",
+        "items": [
+          {
+            "type": "htmlTextItem",
+            "htmlText": "Le contrat avec WarnerMedia, propriétaire de DC Comics, court sur plusieurs années et porte sur «des podcasts de scripts originaux racontés» qui vont explorer «de nouveaux épisodes basés sur le vaste univers des personnages historiques et emblématiques de DC», ont expliqué les deux sociétés dans un communiqué."
+          }
+        ]
+      },
+      {
+        "type": "ad",
+        "tenants": {
+          "1": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "2": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "3": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "4": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "5": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "6": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "7": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "8": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "9": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "10": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "11": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "12": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "13": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "14": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          },
+          "15": {
+            "availableFor": {
+              "mobileWeb": true,
+              "app": true,
+              "desktop": true
+            }
+          }
+        }
+      },
+      {
+        "type": "textBlockArray",
+        "items": [
+          {
+            "type": "htmlTextItem",
+            "htmlText": "Elles n’ont pas précisé quels personnages seraient interprétés ni le montant du contrat qui inclut «des nouveaux podcasts de comédie et de drame» basés sur le catalogue de films de la Warner Bros."
+          }
+        ]
+      },
+      {
+        "type": "crosshead",
+        "htmlText": "Stage d’avocat pour Kim Kardashian",
+        "style": {}
+      },
+      {
+        "type": "textBlockArray",
+        "items": [
+          {
+            "type": "htmlTextItem",
+            "htmlText": "Spotify a par ailleurs confirmé la venue de la star de télé-réalité Kim Kardashian sur sa plateforme pour un podcast qui devrait évoquer l’affaire Kevin Keith, condamné en 1994 pour un triple meurtre dont il se dit innocent. Sa condamnation à mort a été commuée en prison à vie en 2010."
+          }
+        ]
+      },
+      {
+        "type": "textBlockArray",
+        "items": [
+          {
+            "type": "htmlTextItem",
+            "htmlText": "La vedette américaine milite pour une réforme de la justice pénale américaine et contre les incarcérations de masse qui visent notamment la population noire. Elle a suivi un stage au sein d’un cabinet d’avocats et prévoit de passer le concours du barreau de Californie en 2022. Elle avait obtenu en 2018 un geste de clémence de la part du président Donald Trump, qui avait gracié une femme de 63 ans condamnée à la perpétuité pour un trafic de drogue."
+          }
+        ]
+      }
+    ],
+    "imageIDs": [
+      "3JaCJoWKanHBNyczya17uD"
+    ],
+    "embeddedIDs": []
+  }
+}

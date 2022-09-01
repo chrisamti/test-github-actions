@@ -1,0 +1,1050 @@
+{
+  "type": "video",
+  "id": 696347518803,
+  "version": 1,
+  "date": "2020-07-29T09:29:28.792341767Z",
+  "copyright": "tx group",
+  "jurisdiction": "ch",
+  "content": {
+    "id": "9249503e-d392-45b2-8c30-23f61a42d8da",
+    "created": "2020-07-29T08:56:09.772Z",
+    "updated": "2020-07-29T09:29:27.755Z",
+    "paywall": {
+      "docType": "article"
+    },
+    "meta": {
+      "type": "metadata",
+      "publishStatus": "published",
+      "published": "2020-07-29T09:29:38Z",
+      "updated": "2020-07-29T09:29:38Z",
+      "settings": {
+        "premium": false,
+        "breakingNews": false,
+        "live": false,
+        "opinion": false,
+        "contest": false,
+        "sponsored": false,
+        "ratingEnabled": false,
+        "feedbackEnabled": true,
+        "commentingEnabled": true,
+        "commentRisk": "low",
+        "sharingEnabled": true,
+        "likesEnabled": true,
+        "newsletterSubscribingEnabled": false,
+        "adsEnabled": true,
+        "renderedInWebView": false,
+        "videoInContent": true,
+        "allowRobots": true,
+        "visibleInNewestContent": true,
+        "publicationDateExposed": true
+      },
+      "authors": [
+        {
+          "type": "agency",
+          "info": "",
+          "name": "step"
+        }
+      ],
+      "infobox": [],
+      "kickword": {},
+      "tags": [
+        {
+          "id": 8051,
+          "name": "Strassenverkehr"
+        }
+      ],
+      "mainCategory": 22,
+      "mainCategoryName": "Leben",
+      "mainCategoryUrlPath": "leben",
+      "mainCategoryFullUrlPath": "leben",
+      "mainPageStyle": "default",
+      "categories": [
+        22
+      ],
+      "urlSlug": "so-gefaehrlich-sind-e-trottis-fuer-fussgaenger",
+      "url": "/so-gefaehrlich-sind-e-trottis-fuer-fussgaenger-696347518803",
+      "teaser": {
+        "default": {
+          "paywall": {
+            "docType": "article"
+          },
+          "published": "2020-07-29T09:29:38Z",
+          "updated": "2020-07-29T09:29:38Z",
+          "mainCategoryFullUrlPath": "leben",
+          "urlSlug": "so-gefaehrlich-sind-e-trottis-fuer-fussgaenger",
+          "url": "/so-gefaehrlich-sind-e-trottis-fuer-fussgaenger-696347518803",
+          "openInNewWindow": false,
+          "settings": {
+            "premium": false,
+            "breakingNews": false,
+            "live": false,
+            "opinion": false,
+            "contest": false,
+            "sponsored": false,
+            "ratingEnabled": false,
+            "feedbackEnabled": true,
+            "commentingEnabled": true,
+            "commentRisk": "low",
+            "sharingEnabled": true,
+            "likesEnabled": true,
+            "newsletterSubscribingEnabled": false,
+            "adsEnabled": true,
+            "renderedInWebView": false,
+            "videoInContent": true,
+            "allowRobots": true,
+            "visibleInNewestContent": true,
+            "publicationDateExposed": true
+          },
+          "authors": [
+            {
+              "type": "agency",
+              "info": "",
+              "name": "step"
+            }
+          ],
+          "titleHeader": "Sicherheit im Strassenverkehr",
+          "title": "So gefährlich sind E-Trottis für Fussgänger",
+          "lead": "Ein Crashtest zeigt, wie schlecht Passanten bei einem Zusammenstoss mit einem elektrischen Trottinette wegkommen. Zudem seien vermehrt Gefährte im Einsatz, die für den Einsatz auf Schweizer Strassen nicht zugelassen sind. ",
+          "useEmbedUrl": false,
+          "image": {
+            "id": "8AzSOWLHqbMAok1zQg-K96",
+            "promcolor": "#AE351B",
+            "name": "Crashtest",
+            "slugifiedName": "crashtest",
+            "variants": {
+              "1200px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,0,0,0,0/J_qdBUCqIm0/8AzSOWLHqbMAok1zQg-K96.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1200,
+                "maxHeight": 1200,
+                "aspectRatio": 1,
+                "width": 1200,
+                "height": 1200,
+                "focusPoint": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "1600px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1600,1600,0,0,0,0/kzIQXiyjQzU/8AzSOWLHqbMAok1zQg-K96.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1600,
+                "maxHeight": 1600,
+                "aspectRatio": 1,
+                "width": 1600,
+                "height": 1600,
+                "focusPoint": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "2000px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/2001,2000,0,0,0,0/5nNItsIB7p0/8AzSOWLHqbMAok1zQg-K96.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 2001,
+                "maxHeight": 2000,
+                "aspectRatio": 1.0005,
+                "width": 2001,
+                "height": 2000,
+                "focusPoint": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "400px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/400,400,0,0,0,0/wMmdWXbcHns/8AzSOWLHqbMAok1zQg-K96.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 400,
+                "maxHeight": 400,
+                "aspectRatio": 1,
+                "width": 400,
+                "height": 400,
+                "focusPoint": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "800px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/800,800,0,0,0,0/f66Q9_W9AUE/8AzSOWLHqbMAok1zQg-K96.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 800,
+                "maxHeight": 800,
+                "aspectRatio": 1,
+                "width": 800,
+                "height": 800,
+                "focusPoint": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "big": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,0,0,0,0/J_qdBUCqIm0/8AzSOWLHqbMAok1zQg-K96.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1200,
+                "maxHeight": 1200,
+                "aspectRatio": 1,
+                "width": 1200,
+                "height": 1200,
+                "focusPoint": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "small": {
+                "src": "https://cdn.unitycms.io/image/ocroped/400,400,0,0,0,0/wMmdWXbcHns/8AzSOWLHqbMAok1zQg-K96.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 400,
+                "maxHeight": 400,
+                "aspectRatio": 1,
+                "width": 400,
+                "height": 400,
+                "focusPoint": {
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            }
+          },
+          "kickword": {},
+          "styles": {
+            "name": "Default"
+          },
+          "relatedContent": {
+            "content": [
+              {
+                "urlSlug": "jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti",
+                "url": "/jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti-827480416410",
+                "openInNewWindow": false,
+                "titleHeader": "Starke Zunahme der Verletzten ",
+                "title": "Jeden Tag gibt es in der Schweiz einen Unfall mit einem E-Trotti",
+                "lead": "Weil Tretroller hierzulande immer beliebter werden, nehmen auch die Unfälle mit den Zweirädern zu. Nun gibt der TCS den Lenkern Ratschläge, damit sie sicher unterwegs sind.",
+                "settings": {
+                  "premium": false
+                },
+                "id": 827480416410,
+                "type": "articles",
+                "feed": "https://feed-prod.unitycms.io/2/content/827480416410"
+              },
+              {
+                "urlSlug": "e-trottinett-anbieter-entlaesst-sein-personal",
+                "url": "/e-trottinett-anbieter-entlaesst-sein-personal-724652543519",
+                "openInNewWindow": false,
+                "titleHeader": "Nach Übernahme",
+                "title": "E-Trottinett-Anbieter entlässt sein Personal",
+                "lead": "Circ stellt seinen Betrieb in der Schweiz ein. Alle müssen gehen – ausser zwei Manager.",
+                "settings": {
+                  "premium": false
+                },
+                "id": 724652543519,
+                "type": "articles",
+                "feed": "https://feed-prod.unitycms.io/2/content/724652543519"
+              }
+            ],
+            "displayAsBundle": false
+          }
+        },
+        "facebook": {
+          "paywall": {
+            "docType": "article"
+          },
+          "published": "2020-07-29T09:29:38Z",
+          "updated": "2020-07-29T09:29:38Z",
+          "mainCategoryFullUrlPath": "leben",
+          "urlSlug": "so-gefaehrlich-sind-e-trottis-fuer-fussgaenger",
+          "url": "/so-gefaehrlich-sind-e-trottis-fuer-fussgaenger-696347518803",
+          "openInNewWindow": false,
+          "settings": {
+            "premium": false,
+            "breakingNews": false,
+            "live": false,
+            "opinion": false,
+            "contest": false,
+            "sponsored": false,
+            "ratingEnabled": false,
+            "feedbackEnabled": true,
+            "commentingEnabled": true,
+            "commentRisk": "low",
+            "sharingEnabled": true,
+            "likesEnabled": true,
+            "newsletterSubscribingEnabled": false,
+            "adsEnabled": true,
+            "renderedInWebView": false,
+            "videoInContent": true,
+            "allowRobots": true,
+            "visibleInNewestContent": true,
+            "publicationDateExposed": true
+          },
+          "authors": [
+            {
+              "type": "agency",
+              "info": "",
+              "name": "step"
+            }
+          ],
+          "titleHeader": "",
+          "title": "Viele E-Trottinetts sind gar nicht erlaubt",
+          "lead": "Ein Crashtest zeigt, dass bei einem Unfall mit einem E-Trottinett der Passant schlechter wegkommt. Zudem sind vermehrt Trottinetts im Umlauf, die eigentlich nicht zugelassen sind.",
+          "useEmbedUrl": false,
+          "image": {
+            "id": "6vEqDIYU4klAnRi6lKxXcB",
+            "promcolor": "#AE351B",
+            "name": "Crashtest",
+            "slugifiedName": "crashtest",
+            "variants": {
+              "1200px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,854,899,89,0/UPAoqWu-aR4/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1200,
+                "maxHeight": 1200,
+                "aspectRatio": 1.6893353941267388,
+                "width": 1200,
+                "height": 710,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "1600px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1600,1600,854,899,89,0/zr7dRrNOFg0/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1600,
+                "maxHeight": 1600,
+                "aspectRatio": 1.6893353941267388,
+                "width": 1600,
+                "height": 947,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "2000px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/2001,2000,854,899,89,0/4y7AVyXJP98/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 2001,
+                "maxHeight": 2000,
+                "aspectRatio": 1.6893353941267388,
+                "width": 2001,
+                "height": 1184,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "400px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/400,400,854,899,89,0/-v0vYXDEcJg/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 400,
+                "maxHeight": 400,
+                "aspectRatio": 1.6893353941267388,
+                "width": 400,
+                "height": 236,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "800px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/800,800,854,899,89,0/_iQmmIx_EVo/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 800,
+                "maxHeight": 800,
+                "aspectRatio": 1.6893353941267388,
+                "width": 800,
+                "height": 473,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "big": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,854,899,89,0/UPAoqWu-aR4/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1200,
+                "maxHeight": 1200,
+                "aspectRatio": 1.6893353941267388,
+                "width": 1200,
+                "height": 710,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "small": {
+                "src": "https://cdn.unitycms.io/image/ocroped/400,400,854,899,89,0/-v0vYXDEcJg/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 400,
+                "maxHeight": 400,
+                "aspectRatio": 1.6893353941267388,
+                "width": 400,
+                "height": 236,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              }
+            }
+          },
+          "kickword": {},
+          "styles": {
+            "name": "Default"
+          },
+          "relatedContent": {
+            "content": [
+              {
+                "urlSlug": "jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti",
+                "url": "/jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti-827480416410",
+                "openInNewWindow": false,
+                "titleHeader": "Starke Zunahme der Verletzten ",
+                "title": "Jeden Tag gibt es in der Schweiz einen Unfall mit einem E-Trotti",
+                "lead": "Weil Tretroller hierzulande immer beliebter werden, nehmen auch die Unfälle mit den Zweirädern zu. Nun gibt der TCS den Lenkern Ratschläge, damit sie sicher unterwegs sind.",
+                "settings": {
+                  "premium": false
+                },
+                "id": 827480416410,
+                "type": "articles",
+                "feed": "https://feed-prod.unitycms.io/2/content/827480416410"
+              },
+              {
+                "urlSlug": "e-trottinett-anbieter-entlaesst-sein-personal",
+                "url": "/e-trottinett-anbieter-entlaesst-sein-personal-724652543519",
+                "openInNewWindow": false,
+                "titleHeader": "Nach Übernahme",
+                "title": "E-Trottinett-Anbieter entlässt sein Personal",
+                "lead": "Circ stellt seinen Betrieb in der Schweiz ein. Alle müssen gehen – ausser zwei Manager.",
+                "settings": {
+                  "premium": false
+                },
+                "id": 724652543519,
+                "type": "articles",
+                "feed": "https://feed-prod.unitycms.io/2/content/724652543519"
+              }
+            ],
+            "displayAsBundle": false
+          }
+        },
+        "twitter": {
+          "paywall": {
+            "docType": "article"
+          },
+          "published": "2020-07-29T09:29:38Z",
+          "updated": "2020-07-29T09:29:38Z",
+          "mainCategoryFullUrlPath": "leben",
+          "urlSlug": "so-gefaehrlich-sind-e-trottis-fuer-fussgaenger",
+          "url": "/so-gefaehrlich-sind-e-trottis-fuer-fussgaenger-696347518803",
+          "openInNewWindow": false,
+          "settings": {
+            "premium": false,
+            "breakingNews": false,
+            "live": false,
+            "opinion": false,
+            "contest": false,
+            "sponsored": false,
+            "ratingEnabled": false,
+            "feedbackEnabled": true,
+            "commentingEnabled": true,
+            "commentRisk": "low",
+            "sharingEnabled": true,
+            "likesEnabled": true,
+            "newsletterSubscribingEnabled": false,
+            "adsEnabled": true,
+            "renderedInWebView": false,
+            "videoInContent": true,
+            "allowRobots": true,
+            "visibleInNewestContent": true,
+            "publicationDateExposed": true
+          },
+          "authors": [
+            {
+              "type": "agency",
+              "info": "",
+              "name": "step"
+            }
+          ],
+          "titleHeader": "",
+          "title": "Viele E-Trottinetts sind gar nicht erlaubt",
+          "lead": "Ein Crashtest zeigt, dass bei einem Unfall mit einem E-Trottinett der Passant schlechter wegkommt. Zudem sind vermehrt Trottinetts im Umlauf, die eigentlich nicht zugelassen sind.",
+          "useEmbedUrl": false,
+          "image": {
+            "id": "6vEqDIYU4klAnRi6lKxXcB",
+            "promcolor": "#AE351B",
+            "name": "Crashtest",
+            "slugifiedName": "crashtest",
+            "variants": {
+              "1200px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,854,899,89,0/UPAoqWu-aR4/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1200,
+                "maxHeight": 1200,
+                "aspectRatio": 1.6893353941267388,
+                "width": 1200,
+                "height": 710,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "1600px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1600,1600,854,899,89,0/zr7dRrNOFg0/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1600,
+                "maxHeight": 1600,
+                "aspectRatio": 1.6893353941267388,
+                "width": 1600,
+                "height": 947,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "2000px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/2001,2000,854,899,89,0/4y7AVyXJP98/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 2001,
+                "maxHeight": 2000,
+                "aspectRatio": 1.6893353941267388,
+                "width": 2001,
+                "height": 1184,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "400px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/400,400,854,899,89,0/-v0vYXDEcJg/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 400,
+                "maxHeight": 400,
+                "aspectRatio": 1.6893353941267388,
+                "width": 400,
+                "height": 236,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "800px": {
+                "src": "https://cdn.unitycms.io/image/ocroped/800,800,854,899,89,0/_iQmmIx_EVo/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 800,
+                "maxHeight": 800,
+                "aspectRatio": 1.6893353941267388,
+                "width": 800,
+                "height": 473,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "big": {
+                "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,854,899,89,0/UPAoqWu-aR4/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 1200,
+                "maxHeight": 1200,
+                "aspectRatio": 1.6893353941267388,
+                "width": 1200,
+                "height": 710,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              },
+              "small": {
+                "src": "https://cdn.unitycms.io/image/ocroped/400,400,854,899,89,0/-v0vYXDEcJg/6vEqDIYU4klAnRi6lKxXcB.jpg",
+                "mediaType": "image/jpeg",
+                "maxWidth": 400,
+                "maxHeight": 400,
+                "aspectRatio": 1.6893353941267388,
+                "width": 400,
+                "height": 236,
+                "focusPoint": {
+                  "x": 0.35969154358907335,
+                  "y": 0.44703662055402166
+                }
+              }
+            }
+          },
+          "kickword": {},
+          "styles": {
+            "name": "Default"
+          },
+          "relatedContent": {
+            "content": [
+              {
+                "urlSlug": "jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti",
+                "url": "/jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti-827480416410",
+                "openInNewWindow": false,
+                "titleHeader": "Starke Zunahme der Verletzten ",
+                "title": "Jeden Tag gibt es in der Schweiz einen Unfall mit einem E-Trotti",
+                "lead": "Weil Tretroller hierzulande immer beliebter werden, nehmen auch die Unfälle mit den Zweirädern zu. Nun gibt der TCS den Lenkern Ratschläge, damit sie sicher unterwegs sind.",
+                "settings": {
+                  "premium": false
+                },
+                "id": 827480416410,
+                "type": "articles",
+                "feed": "https://feed-prod.unitycms.io/2/content/827480416410"
+              },
+              {
+                "urlSlug": "e-trottinett-anbieter-entlaesst-sein-personal",
+                "url": "/e-trottinett-anbieter-entlaesst-sein-personal-724652543519",
+                "openInNewWindow": false,
+                "titleHeader": "Nach Übernahme",
+                "title": "E-Trottinett-Anbieter entlässt sein Personal",
+                "lead": "Circ stellt seinen Betrieb in der Schweiz ein. Alle müssen gehen – ausser zwei Manager.",
+                "settings": {
+                  "premium": false
+                },
+                "id": 724652543519,
+                "type": "articles",
+                "feed": "https://feed-prod.unitycms.io/2/content/724652543519"
+              }
+            ],
+            "displayAsBundle": false
+          }
+        }
+      },
+      "relatedContent": {
+        "content": [
+          {
+            "type": "articles",
+            "content": {
+              "paywall": {
+                "docType": "article"
+              },
+              "published": "2020-06-17T03:40:43Z",
+              "updated": "2020-06-17T03:40:43Z",
+              "mainCategoryFullUrlPath": "schweiz",
+              "urlSlug": "jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti",
+              "url": "/jeden-tag-gibt-es-in-der-schweiz-einen-unfall-mit-einem-e-trotti-827480416410",
+              "openInNewWindow": false,
+              "settings": {
+                "premium": false,
+                "breakingNews": false,
+                "live": false,
+                "opinion": false,
+                "contest": false,
+                "sponsored": false,
+                "ratingEnabled": false,
+                "feedbackEnabled": true,
+                "commentingEnabled": false,
+                "commentRisk": "",
+                "sharingEnabled": true,
+                "likesEnabled": true,
+                "newsletterSubscribingEnabled": false,
+                "adsEnabled": true,
+                "renderedInWebView": false,
+                "videoInContent": false,
+                "allowRobots": true,
+                "visibleInNewestContent": true,
+                "publicationDateExposed": true
+              },
+              "authors": [
+                {
+                  "type": "agency",
+                  "info": "",
+                  "name": "SDA"
+                }
+              ],
+              "titleHeader": "Starke Zunahme der Verletzten ",
+              "title": "Jeden Tag gibt es in der Schweiz einen Unfall mit einem E-Trotti",
+              "lead": "Weil Tretroller hierzulande immer beliebter werden, nehmen auch die Unfälle mit den Zweirädern zu. Nun gibt der TCS den Lenkern Ratschläge, damit sie sicher unterwegs sind.",
+              "useEmbedUrl": false,
+              "image": {
+                "id": "7MnNdCFBqhc9mrDOc1cc1v",
+                "promcolor": "#A09A8B",
+                "name": "Die wachsende Beliebtheit der E-Trottis in der Schweiz führt auch zu einer starken Zunahme der Unfälle. ",
+                "slugifiedName": "die-wachsende-beliebtheit-der-e-trottis-in-der-schweiz-fuehrt-auch-zu-einer-starken-zunahme-der-unfaelle",
+                "variants": {
+                  "1200px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,1000,1000,0,0/zTwVGaDVfJI/7MnNdCFBqhc9mrDOc1cc1v.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 1200,
+                    "maxHeight": 1200,
+                    "aspectRatio": 1.499267935578331,
+                    "width": 1200,
+                    "height": 800,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "1600px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/1600,1600,1000,1000,0,0/8uSeoCtRrRk/7MnNdCFBqhc9mrDOc1cc1v.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 1600,
+                    "maxHeight": 1600,
+                    "aspectRatio": 1.499267935578331,
+                    "width": 1600,
+                    "height": 1067,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "2000px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/2001,2000,1000,1000,0,0/WCHq-oBTCso/7MnNdCFBqhc9mrDOc1cc1v.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 2001,
+                    "maxHeight": 2000,
+                    "aspectRatio": 1.499267935578331,
+                    "width": 2001,
+                    "height": 1334,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "400px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/400,400,1000,1000,0,0/aa64lEizSYw/7MnNdCFBqhc9mrDOc1cc1v.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 400,
+                    "maxHeight": 400,
+                    "aspectRatio": 1.499267935578331,
+                    "width": 400,
+                    "height": 266,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "800px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/800,800,1000,1000,0,0/ykPWnmAGR7E/7MnNdCFBqhc9mrDOc1cc1v.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 800,
+                    "maxHeight": 800,
+                    "aspectRatio": 1.499267935578331,
+                    "width": 800,
+                    "height": 533,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "big": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,1000,1000,0,0/zTwVGaDVfJI/7MnNdCFBqhc9mrDOc1cc1v.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 1200,
+                    "maxHeight": 1200,
+                    "aspectRatio": 1.499267935578331,
+                    "width": 1200,
+                    "height": 800,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "small": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/400,400,1000,1000,0,0/aa64lEizSYw/7MnNdCFBqhc9mrDOc1cc1v.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 400,
+                    "maxHeight": 400,
+                    "aspectRatio": 1.499267935578331,
+                    "width": 400,
+                    "height": 266,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  }
+                }
+              },
+              "kickword": {},
+              "styles": {
+                "name": "Default"
+              }
+            },
+            "mainType": "metadata",
+            "id": 827480416410,
+            "feed": "https://feed-prod.unitycms.io/2/content/827480416410",
+            "sortID": 0
+          },
+          {
+            "type": "articles",
+            "content": {
+              "paywall": {
+                "docType": "article"
+              },
+              "published": "2020-02-18T12:10:58Z",
+              "updated": "2020-02-18T15:56:49Z",
+              "mainCategoryFullUrlPath": "wirtschaft/unternehmen-und-konjunktur",
+              "urlSlug": "e-trottinett-anbieter-entlaesst-sein-personal",
+              "url": "/e-trottinett-anbieter-entlaesst-sein-personal-724652543519",
+              "legacyCanonicalUrl": "https://www.tagesanzeiger.ch/wirtschaft/unternehmen-und-konjunktur/etrottinettanbieter-entlaesst-sein-personal/story/19626370",
+              "legacyID": 19626370,
+              "openInNewWindow": false,
+              "settings": {
+                "premium": false,
+                "breakingNews": false,
+                "live": false,
+                "opinion": false,
+                "contest": false,
+                "sponsored": false,
+                "ratingEnabled": false,
+                "feedbackEnabled": true,
+                "commentingEnabled": false,
+                "commentRisk": "",
+                "sharingEnabled": true,
+                "likesEnabled": true,
+                "newsletterSubscribingEnabled": false,
+                "adsEnabled": true,
+                "renderedInWebView": false,
+                "videoInContent": false,
+                "allowRobots": true,
+                "visibleInNewestContent": true,
+                "publicationDateExposed": true
+              },
+              "authors": [
+                {
+                  "type": "user",
+                  "info": "",
+                  "name": "fal"
+                }
+              ],
+              "titleHeader": "Nach Übernahme",
+              "title": "E-Trottinett-Anbieter entlässt sein Personal",
+              "lead": "Circ stellt seinen Betrieb in der Schweiz ein. Alle müssen gehen – ausser zwei Manager.",
+              "useEmbedUrl": false,
+              "image": {
+                "id": "3Uf8DlbIqHY8-UpZfRDE8z",
+                "promcolor": "#AC7862",
+                "name": " ",
+                "variants": {
+                  "1200px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,1000,1000,0,0/XnhImrFV00E/3Uf8DlbIqHY8-UpZfRDE8z.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 1200,
+                    "maxHeight": 1200,
+                    "aspectRatio": 1.501466275659824,
+                    "width": 1200,
+                    "height": 799,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "1600px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/1600,1600,1000,1000,0,0/pnXKMmHqRP0/3Uf8DlbIqHY8-UpZfRDE8z.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 1600,
+                    "maxHeight": 1600,
+                    "aspectRatio": 1.501466275659824,
+                    "width": 1600,
+                    "height": 1065,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "2000px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/2001,2000,1000,1000,0,0/HUMnNbGzOwU/3Uf8DlbIqHY8-UpZfRDE8z.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 2001,
+                    "maxHeight": 2000,
+                    "aspectRatio": 1.501466275659824,
+                    "width": 2001,
+                    "height": 1332,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "400px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/400,400,1000,1000,0,0/n4Mf9dQqXDU/3Uf8DlbIqHY8-UpZfRDE8z.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 400,
+                    "maxHeight": 400,
+                    "aspectRatio": 1.501466275659824,
+                    "width": 400,
+                    "height": 266,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "800px": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/800,800,1000,1000,0,0/wyadmMz6RsY/3Uf8DlbIqHY8-UpZfRDE8z.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 800,
+                    "maxHeight": 800,
+                    "aspectRatio": 1.501466275659824,
+                    "width": 800,
+                    "height": 532,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "big": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/1200,1200,1000,1000,0,0/XnhImrFV00E/3Uf8DlbIqHY8-UpZfRDE8z.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 1200,
+                    "maxHeight": 1200,
+                    "aspectRatio": 1.501466275659824,
+                    "width": 1200,
+                    "height": 799,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  },
+                  "small": {
+                    "src": "https://cdn.unitycms.io/image/ocroped/400,400,1000,1000,0,0/n4Mf9dQqXDU/3Uf8DlbIqHY8-UpZfRDE8z.jpg",
+                    "mediaType": "image/jpeg",
+                    "maxWidth": 400,
+                    "maxHeight": 400,
+                    "aspectRatio": 1.501466275659824,
+                    "width": 400,
+                    "height": 266,
+                    "focusPoint": {
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  }
+                }
+              },
+              "kickword": {},
+              "styles": {
+                "name": "Visual"
+              },
+              "relatedContent": {
+                "content": [
+                  {
+                    "urlSlug": "lime-zieht-nach-unfaellen-alle-e-scooter-aus-dem-verkehr",
+                    "url": "/lime-zieht-nach-unfaellen-alle-e-scooter-aus-dem-verkehr-906720684699",
+                    "openInNewWindow": false,
+                    "titleHeader": "",
+                    "title": "Lime zieht nach Unfällen alle E-Scooter aus dem Verkehr",
+                    "lead": "Über 500 E-Trottinetts des Anbieters werden wegen technischer Probleme eingezogen. Auch die Software wird überprüft.",
+                    "settings": {
+                      "premium": false
+                    },
+                    "id": 906720684699,
+                    "type": "",
+                    "feed": "https://feed-prod.unitycms.io/2/content/906720684699"
+                  },
+                  {
+                    "urlSlug": "anzahl-e-trottinetts-hat-sich-innert-einem-jahr-verzehnfacht",
+                    "url": "/anzahl-e-trottinetts-hat-sich-innert-einem-jahr-verzehnfacht-825834065510",
+                    "openInNewWindow": false,
+                    "titleHeader": "",
+                    "title": "Anzahl E-Trottinetts hat sich innert einem Jahr verzehnfacht",
+                    "lead": "Die Gefährte erobern die europäischen Städte, und das in rasantem Tempo. Zürich ist da keine Ausnahme.",
+                    "settings": {
+                      "premium": false
+                    },
+                    "id": 825834065510,
+                    "type": "",
+                    "feed": "https://feed-prod.unitycms.io/2/content/825834065510"
+                  },
+                  {
+                    "urlSlug": "den-e-trottis-koennte-schon-bald-der-saft-ausgehen",
+                    "url": "/den-e-trottis-koennte-schon-bald-der-saft-ausgehen-805892941037",
+                    "openInNewWindow": false,
+                    "titleHeader": "",
+                    "title": "Den E-Trottis könnte schon bald der Saft ausgehen",
+                    "lead": "Die Verleihdienste für Elektro-Trottinetts wachsen rasant. Der Boom könnte von kurzer Dauer sein – glaubt zumindest der grösste Hersteller der Fahrzeuge.",
+                    "settings": {
+                      "premium": false
+                    },
+                    "id": 805892941037,
+                    "type": "",
+                    "feed": "https://feed-prod.unitycms.io/2/content/805892941037"
+                  }
+                ],
+                "displayAsBundle": false
+              }
+            },
+            "mainType": "metadata",
+            "id": 724652543519,
+            "feed": "https://feed-prod.unitycms.io/2/content/724652543519",
+            "sortID": 0
+          }
+        ],
+        "displayAsBundle": false
+      },
+      "clientdata": {
+        "community": {
+          "likes": "",
+          "shares": "",
+          "reads": "",
+          "views": "",
+          "bookmarks": "",
+          "comments": "3",
+          "contentRatings": ""
+        }
+      }
+    },
+    "video": {
+      "title": "So gefährlich sind E-Trottis für Fussgänger",
+      "titleHeader": "Sicherheit im Strassenverkehr",
+      "lead": {
+        "text": "Ein Crashtest zeigt, wie schlecht Passanten bei einem Zusammenstoss mit einem elektrischen Trottinette wegkommen. Zudem seien vermehrt Gefährte im Einsatz, die für den Einsatz auf Schweizer Strassen nicht zugelassen sind. ",
+        "elements": [
+          {
+            "type": "textBlockArray",
+            "items": [
+              {
+                "type": "htmlTextItem",
+                "htmlText": "Ein Crashtest zeigt, wie schlecht Passanten bei einem Zusammenstoss mit einem elektrischen Trottinette wegkommen. Zudem seien vermehrt Gefährte im Einsatz, die für den Einsatz auf Schweizer Strassen nicht zugelassen sind. "
+              }
+            ]
+          }
+        ]
+      },
+      "content": {
+        "text": "",
+        "elements": [
+          {
+            "type": "videocms",
+            "url": "https://www.tagesanzeiger.ch/extern/videoplayer/videoplayer-nn.html?params=client@tagesanzeiger|videoId@427394|showLogo@1|autoStart@0|mute@0|showAds@1|previewPath@https://server025.newsnetz.tv/427394/frame-1-427394.jpg|platform@desktop",
+            "provider": "videocms",
+            "credit": "Video: Keystone-SDA",
+            "content": {
+              "elements": [
+                {
+                  "meta": {
+                    "teams": [],
+                    "content_category": [],
+                    "story_id": 25245711,
+                    "origin": "nn",
+                    "legacy_video_id": 427394,
+                    "media_id": ""
+                  },
+                  "channel_list": [
+                    {
+                      "unityID": "uv28",
+                      "legacyID": 28,
+                      "origin": "20min",
+                      "name": "Panorama",
+                      "channel_type": "channel"
+                    }
+                  ],
+                  "video_id": "uv427394",
+                  "type": "video",
+                  "title": "Viele E-Trottinetts auf Schweizer Strassen sind gar nicht erlaubt",
+                  "lead": "Ein Crashtest zeigt, dass bei einem Unfall mit einem E-Trottinett der Passant schlechter wegkommt. Zudem sind vermehrt Trottinetts im Umlauf, die eigentlich nicht zugelassen sind.",
+                  "show_ads": true,
+                  "visible": true,
+                  "thumbnail": "https://unitythumb.appuser.ch/frames/uv427394/frame-1-427394.jpg",
+                  "url_high": "https://unityvideo.appuser.ch/video/uv427394h.mp4",
+                  "url_low": "https://unityvideo.appuser.ch/video/uv427394.mp4",
+                  "url_adaptive": "https://unityvideo.appuser.ch/video/uv427394/playlist.m3u8",
+                  "date": "2020-07-29 10:01:15",
+                  "date_updated": "2020-07-29 10:03:58",
+                  "status": "Successful",
+                  "duration": 80,
+                  "aspect_ratio": 1.77777777,
+                  "width": 1280,
+                  "height": 720,
+                  "geoblocking": false,
+                  "corner_logo": "",
+                  "cc_url": "",
+                  "metadataid": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

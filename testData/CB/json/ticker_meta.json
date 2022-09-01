@@ -1,0 +1,284 @@
+{
+  "type": "metadata",
+  "version": 1,
+  "date": "2020-07-08T12:10:25.332753021Z",
+  "content": {
+    "id": 307597493602,
+    "trace": {
+      "B3": "foxy_24324488",
+      "time": "2020-07-08T12:10:25.332753539Z"
+    },
+    "resourceID": "aa7a8dce-9b31-43b2-a6d9-22d164bb6948",
+    "externalID": "",
+    "externalSystem": "",
+    "legacyIDs": {
+      "nnDe": "",
+      "nnFr": "",
+      "nnZrz": "",
+      "20minDe": "",
+      "20minFr": ""
+    },
+    "publishedAt": "2020-06-30T07:59:02.608Z",
+    "publishedAtDay": "2020-06-30",
+    "publishedAtMonth": "2020-06",
+    "unityPublishedAt": "2020-06-30T07:59:02.608Z",
+    "customPublishedAt": "",
+    "readyToPublishAt": "",
+    "updatedAt": "2020-07-08T12:10:24Z",
+    "updatedAtDay": "2020-07-08",
+    "updatedAtMonth": "2020-07",
+    "unityUpdatedAt": "2020-07-08T12:10:23.558Z",
+    "customUpdatedAt": "2020-07-08T12:10:24Z",
+    "contentName": "test marcel 2",
+    "resourceName": "tickers",
+    "language": "de-CH",
+    "publishStatus": "published",
+    "teasers": {
+      "0": {
+        "variants": {
+          "default": {
+            "titleHeader": "test",
+            "title": "test",
+            "lead": "test",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "1NeT6irPKy99kYTdO8iKH_",
+              "type": "png",
+              "promcolor": "#9C9C9C",
+              "url": "https://staging-images.unitycms.io/api/filerepo/files/1NeT6irPKy99kYTdO8iKH_/data",
+              "thumbnailUrl": "",
+              "name": "Desc",
+              "slugifiedName": "desc",
+              "size": {
+                "width": 707,
+                "height": 1023
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          },
+          "facebook": {
+            "titleHeader": "",
+            "title": "",
+            "lead": "",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "",
+              "type": "",
+              "url": "",
+              "thumbnailUrl": "",
+              "size": {
+                "width": 0,
+                "height": 0
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          },
+          "twitter": {
+            "titleHeader": "",
+            "title": "",
+            "lead": "",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "",
+              "type": "",
+              "url": "",
+              "thumbnailUrl": "",
+              "size": {
+                "width": 0,
+                "height": 0
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "tenantIDs": [
+      6,
+      5,
+      3,
+      8,
+      10,
+      9,
+      1,
+      2,
+      12,
+      13,
+      11,
+      16
+    ],
+    "tenants": {
+      "1": {},
+      "2": {},
+      "3": {},
+      "5": {},
+      "6": {},
+      "8": {},
+      "9": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "13": {},
+      "16": {}
+    },
+    "placement": {
+      "0": {
+        "Categories": [
+          11,
+          101
+        ],
+        "MainCategory": 101
+      }
+    },
+    "authors": [
+      {
+        "id": 1135670,
+        "type": "user",
+        "manualType": false,
+        "user": {
+          "userId": "c92868e1-caf3-4fcd-affa-5a74f7340bf2",
+          "userName": "anho",
+          "variants": {
+            "0": {
+              "displayName": "Marcel Schulze",
+              "firstName": "Marcel",
+              "lastName": "Schulze",
+              "shortName": "dsfsdhkfjhdsf sdjkhfsdkfjksdhfdskjfhdskfjhdskjfhdskjfhdskjfhdskfjdshkfjdsfhdsjfhdskjfhsdjk",
+              "twitterHash": "abc"
+            }
+          }
+        },
+        "info": ""
+      }
+    ],
+    "tagIDs": [
+      1405
+    ],
+    "tagValue": {
+      "1405": {
+        "name": "Büren zum Hof",
+        "active": true
+      }
+    },
+    "relatedIDs": [],
+    "relatedContent": {
+      "0": {
+        "content": [],
+        "displayAsBundle": false
+      }
+    },
+    "imageIDs": [
+      "1NeT6irPKy99kYTdO8iKH_"
+    ],
+    "infobox": {},
+    "settings": {
+      "0": {
+        "premium": false,
+        "breakingNews": false,
+        "live": true,
+        "opinion": false,
+        "contest": false,
+        "sponsored": false,
+        "ratingEnabled": false,
+        "feedbackEnabled": true,
+        "commentingEnabled": true,
+        "commentRisk": "high",
+        "sharingEnabled": true,
+        "likesEnabled": true,
+        "newsletterSubscribingEnabled": false,
+        "adsEnabled": false,
+        "renderedInWebView": true,
+        "videoInContent": false,
+        "allowRobots": true,
+        "visibleInNewestContent": true,
+        "publicationDateExposed": true
+      }
+    },
+    "link": {},
+    "urlSlugs": {
+      "0": {
+        "suggested": "test",
+        "manual": "test",
+        "sitemap": ""
+      }
+    },
+    "tenantPlacement": [
+      "8:11",
+      "10:11",
+      "2:11",
+      "16:101",
+      "6:101",
+      "6:11",
+      "3:11",
+      "9:11",
+      "1:101",
+      "1:11",
+      "13:101",
+      "13:11",
+      "5:101",
+      "5:11",
+      "3:101",
+      "8:101",
+      "10:101",
+      "9:101",
+      "2:101",
+      "11:11",
+      "16:11",
+      "12:101",
+      "12:11",
+      "11:101"
+    ],
+    "tenantTag": [
+      "6:1405",
+      "5:1405",
+      "3:1405",
+      "8:1405",
+      "10:1405",
+      "9:1405",
+      "1:1405",
+      "2:1405",
+      "12:1405",
+      "13:1405",
+      "11:1405",
+      "16:1405"
+    ],
+    "kickword": {},
+    "kickwordValue": {},
+    "styles": {
+      "0": {
+        "name": "Default"
+      }
+    },
+    "legacyCanonicalUrls": {}
+  }
+}

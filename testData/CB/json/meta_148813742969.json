@@ -1,0 +1,341 @@
+{
+  "type": "metadata",
+  "version": 1,
+  "date": "2020-06-19T00:45:13.673847094Z",
+  "content": {
+    "id": 148813742969,
+    "trace": {
+      "B3": "foxy_27377637",
+      "time": "2020-06-19T00:45:13.673847528Z"
+    },
+    "resourceID": "000d1cf7-d929-4bb5-ba3f-84e9856ae737",
+    "externalID": "1773430",
+    "externalSystem": "cs",
+    "legacyIDs": {
+      "nnDe": "",
+      "nnFr": "",
+      "nnZrz": "",
+      "20minDe": "",
+      "20minFr": ""
+    },
+    "publishedAt": "2020-06-19T00:45:12.572Z",
+    "publishedAtDay": "2020-06-19",
+    "publishedAtMonth": "2020-06",
+    "unityPublishedAt": "2020-06-19T00:45:12.572Z",
+    "customPublishedAt": "",
+    "readyToPublishAt": "",
+    "updatedAt": "2020-06-19T00:45:12.604Z",
+    "updatedAtDay": "2020-06-19",
+    "updatedAtMonth": "2020-06",
+    "unityUpdatedAt": "2020-06-19T00:45:12.604Z",
+    "customUpdatedAt": "",
+    "contentName": "Batman et Kim Kardashian débarquent en podcast sur Spotify",
+    "resourceName": "articles",
+    "language": "fr-CH",
+    "publishStatus": "published",
+    "teasers": {
+      "0": {
+        "variants": {
+          "default": {
+            "titleHeader": "Podcasts",
+            "title": "Kim Kardashian et les super-héros de DC Comics sur Spotify",
+            "lead": "La star de la télé-réalité devrait évoquer lors d’un podcast l’affaire Kevin Keith, condamné en 1994 pour un triple meurtre dont il se dit innocent.",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "3JaCJoWKanHBNyczya17uD",
+              "type": "jpg",
+              "promcolor": "#6F5B3F",
+              "url": "https://prod-images.unitycms.io/api/filerepo/files/3JaCJoWKanHBNyczya17uD/data",
+              "thumbnailUrl": "",
+              "name": "Kim Kardashian a suivi un stage au sein d’un cabinet d’avocats et prévoit de passer le concours du barreau de Californie en 2022 (archives).",
+              "slugifiedName": "kim-kardashian-a-suivi-un-stage-au-sein-dun-cabinet-davocats-et-prevoit-de-passer-le-concours-du-barreau-de-californie-en-2022-archives",
+              "size": {
+                "width": 1024,
+                "height": 768
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          },
+          "facebook": {
+            "titleHeader": "Podcasts",
+            "title": "Kim Kardashian et les super-héros de DC Comics sur Spotify",
+            "lead": "La star de la télé-réalité devrait évoquer lors d’un podcast l’affaire Kevin Keith, condamné en 1994 pour un triple meurtre dont il se dit innocent.",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "3JaCJoWKanHBNyczya17uD",
+              "type": "jpg",
+              "promcolor": "#6F5B3F",
+              "url": "https://prod-images.unitycms.io/api/filerepo/files/3JaCJoWKanHBNyczya17uD/data",
+              "thumbnailUrl": "",
+              "name": "Kim Kardashian a suivi un stage au sein d’un cabinet d’avocats et prévoit de passer le concours du barreau de Californie en 2022 (archives).",
+              "slugifiedName": "kim-kardashian-a-suivi-un-stage-au-sein-dun-cabinet-davocats-et-prevoit-de-passer-le-concours-du-barreau-de-californie-en-2022-archives",
+              "size": {
+                "width": 1024,
+                "height": 768
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          },
+          "twitter": {
+            "titleHeader": "Podcasts",
+            "title": "Kim Kardashian et les super-héros de DC Comics sur Spotify",
+            "lead": "La star de la télé-réalité devrait évoquer lors d’un podcast l’affaire Kevin Keith, condamné en 1994 pour un triple meurtre dont il se dit innocent.",
+            "useEmbedUrl": false,
+            "embedUrl": "",
+            "image": {
+              "id": "3JaCJoWKanHBNyczya17uD",
+              "type": "jpg",
+              "promcolor": "#6F5B3F",
+              "url": "https://prod-images.unitycms.io/api/filerepo/files/3JaCJoWKanHBNyczya17uD/data",
+              "thumbnailUrl": "",
+              "name": "Kim Kardashian a suivi un stage au sein d’un cabinet d’avocats et prévoit de passer le concours du barreau de Californie en 2022 (archives).",
+              "slugifiedName": "kim-kardashian-a-suivi-un-stage-au-sein-dun-cabinet-davocats-et-prevoit-de-passer-le-concours-du-barreau-de-californie-en-2022-archives",
+              "size": {
+                "width": 1024,
+                "height": 768
+              },
+              "focusPoint": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "cropMarks": {
+                "x": 0,
+                "y": 0,
+                "width": 1,
+                "height": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "tenantIDs": [
+      7,
+      15,
+      14
+    ],
+    "tenants": {
+      "7": {},
+      "14": {},
+      "15": {}
+    },
+    "placement": {
+      "0": {
+        "Categories": [
+          11
+        ],
+        "MainCategory": 11
+      }
+    },
+    "authors": [
+      {
+        "id": 28205526,
+        "type": "agency",
+        "manualType": true,
+        "agency": {
+          "id": 28205526,
+          "agencyId": "",
+          "displayName": "ATS/NXP"
+        },
+        "info": ""
+      }
+    ],
+    "tagIDs": [
+      32618,
+      35486
+    ],
+    "tagValue": {
+      "32618": {
+        "name": "Etats-Unis",
+        "active": true
+      },
+      "35486": {
+        "name": "L'incroyable famille Kardashian",
+        "active": true
+      }
+    },
+    "relatedIDs": [
+      761779379831,
+      926405173219,
+      565400671822
+    ],
+    "relatedContent": {
+      "0": {
+        "content": [
+          {
+            "id": 761779379831,
+            "resourceName": "articles",
+            "defaultTitle": {
+              "0": "Forbes retire son titre de milliardaire à Kylie Jenner"
+            },
+            "defaultTeaser": {
+              "0": {
+                "titleHeader": "États-Unis",
+                "title": "Forbes retire son titre de milliardaire à Kylie Jenner",
+                "lead": "La benjamine du clan Kardashian-Jenner est accusée d’avoir menti sur sa fortune, fausses déclarations fiscales à l’appui."
+              }
+            },
+            "settings": {
+              "0": {
+                "premium": false
+              }
+            },
+            "link": {},
+            "urlSlugs": {
+              "0": "forbes-retire-son-titre-de-milliardaire-a-kylie-jenner"
+            },
+            "mainCategory": {
+              "0": 67
+            },
+            "tenants": {
+              "7": {},
+              "14": {},
+              "15": {}
+            }
+          },
+          {
+            "id": 926405173219,
+            "resourceName": "articles",
+            "defaultTitle": {
+              "0": "Les enfants de Kim Kardashian baptisés en Arménie"
+            },
+            "defaultTeaser": {
+              "0": {
+                "titleHeader": "Caucase",
+                "title": "Les enfants de Kim Kardashian baptisés en Arménie",
+                "lead": "La star de téléréalité a profité d'un voyage en Arménie pour faire baptiser ses quatre enfants."
+              }
+            },
+            "settings": {
+              "0": {
+                "premium": false
+              }
+            },
+            "link": {},
+            "urlSlugs": {
+              "0": "les-enfants-de-kim-kardashian-baptises-en-armenie"
+            },
+            "mainCategory": {
+              "0": 67,
+              "4": 980
+            },
+            "tenants": {
+              "4": {},
+              "14": {},
+              "15": {}
+            }
+          },
+          {
+            "id": 565400671822,
+            "resourceName": "articles",
+            "defaultTitle": {
+              "0": "Trump donne à Kim l'envie de devenir avocate"
+            },
+            "defaultTeaser": {
+              "0": {
+                "titleHeader": "People",
+                "title": "Trump donne à Kim l'envie de devenir avocate",
+                "lead": "Touchée par sa mission de bons offices menée auprès du président américain, Kim Kardashian étudie le droit pour devenir avocate."
+              }
+            },
+            "settings": {
+              "0": {
+                "premium": false
+              }
+            },
+            "link": {},
+            "urlSlugs": {
+              "0": "trump-donne-a-kim-l-envie-de-devenir-avocate"
+            },
+            "mainCategory": {
+              "0": 67,
+              "4": 980
+            },
+            "tenants": {
+              "4": {},
+              "14": {},
+              "15": {}
+            }
+          }
+        ],
+        "displayAsBundle": false
+      }
+    },
+    "imageIDs": [
+      "3JaCJoWKanHBNyczya17uD"
+    ],
+    "infobox": {},
+    "settings": {
+      "0": {
+        "premium": false,
+        "breakingNews": false,
+        "live": false,
+        "opinion": false,
+        "contest": false,
+        "sponsored": false,
+        "ratingEnabled": false,
+        "feedbackEnabled": true,
+        "commentingEnabled": false,
+        "commentRisk": "",
+        "sharingEnabled": true,
+        "likesEnabled": true,
+        "newsletterSubscribingEnabled": false,
+        "adsEnabled": true,
+        "renderedInWebView": false,
+        "videoInContent": false,
+        "allowRobots": true,
+        "visibleInNewestContent": true,
+        "publicationDateExposed": true
+      }
+    },
+    "link": {},
+    "urlSlugs": {
+      "0": {
+        "suggested": "kim-kardashian-et-les-super-heros-de-dc-comics-sur-spotify",
+        "manual": "kim-kardashian-et-les-super-heros-de-dc-comics-sur-spotify",
+        "sitemap": ""
+      }
+    },
+    "tenantPlacement": [
+      "7:11",
+      "15:11",
+      "14:11"
+    ],
+    "tenantTag": [
+      "7:32618",
+      "7:35486",
+      "15:32618",
+      "15:35486",
+      "14:32618",
+      "14:35486"
+    ],
+    "kickword": {},
+    "kickwordValue": {},
+    "styles": {
+      "0": {
+        "name": "Default"
+      }
+    },
+    "legacyCanonicalUrls": {}
+  }
+}
