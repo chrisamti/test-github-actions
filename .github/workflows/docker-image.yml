@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: [ "self-hosted", "linux", "arm64", "ondemand" ]
+    runs-on: [ "self-hosted", "Linux", "X86", "chris" ]
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
